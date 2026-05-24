@@ -12,7 +12,14 @@
       "author": {
         "name": "haodiaodemingzi"
       },
-      "category": "development"
+      "category": "development",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/haodiaodemingzi/mavis.git",
+        "path": "mavis",
+        "ref": "main",
+        "sha": "b8077474acbcdefca1498af1dea5405b03c910d5"
+      }
     }
   ]
 }
