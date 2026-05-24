@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "haodiaodemingzi-mavis",
+  "description": "MAVIS — Multi-Agent Verified Implementation System",
+  "owner": {
+    "name": "haodiaodemingzi"
+  },
+  "plugins": [
+    {
+      "name": "mavis",
+      "description": "Multi-Agent Verified Implementation System — autonomous development harness with three execution modes (Full/Quick/Bug) for building, tweaking, and fixing code",
+      "author": {
+        "name": "haodiaodemingzi"
+      },
+      "source": "./plugins/mavis",
+      "category": "development"
+    }
+  ]
+}
